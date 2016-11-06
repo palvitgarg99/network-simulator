@@ -1,0 +1,39 @@
+19
+1
+pallu palvit garg
+1
+tanu tarun sharma
+1
+bc bhavuk chawla
+1
+suthar shrawan suthar
+1
+vicky vicky kumar
+1
+sanju sanjeet kumar
+2
+pallu tanu 1
+2
+vicky pallu 0
+2
+suthar pallu 1
+2
+tanu vicky 1
+2
+vicky suthar 1
+2
+tanu bc 1
+3
+4 pallu tanu vicky suthar
+1
+niku nikhil bansal
+3
+3 niku pallu bc
+2
+niku pallu 1
+3
+1 niku 
+4
+pallu bc
+4
+pallu sanju
